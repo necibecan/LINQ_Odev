@@ -1,0 +1,14 @@
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.AssemblyInfoInputs.cache
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.AssemblyInfo.cs
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.csproj.CoreCompileInputs.cache
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/bin/Debug/net8.0/LINQ_Ödev
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/bin/Debug/net8.0/LINQ_Ödev.deps.json
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/bin/Debug/net8.0/LINQ_Ödev.runtimeconfig.json
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/bin/Debug/net8.0/LINQ_Ödev.dll
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/bin/Debug/net8.0/LINQ_Ödev.pdb
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.dll
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/refint/LINQ_Ödev.dll
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.pdb
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/LINQ_Ödev.genruntimeconfig.cache
+/Users/necibecan/RiderProjects/LINQ_Ödev/LINQ_Ödev/obj/Debug/net8.0/ref/LINQ_Ödev.dll
